@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoneWaheed
 - 👀 I’m interested in biomedical signal analysis
-- 🌱 I’m currently learning how to use machine learning and deep learning
+- 🌱 I’m currently learning how to use machine learning and deep learning for biomedical signals 
 - 📫 you can reach at waheedlone9@gmail.com
 
 <!---
